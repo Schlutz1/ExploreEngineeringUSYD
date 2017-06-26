@@ -15,7 +15,7 @@ This spreadsheet logs raw results from trials with the medical device sensor. Th
 This directory contains the PulseOximeter.ino skeleton file that will be implemented for the medical device.
 
 ###### Filters
-This directory contains open source software to aid in development of the medical Device.
+This directory contains open source software to aid in development of the medical device.
 
 This library should be installed locally at: C:\Program Files (x86)\Arduino\libraries
 
