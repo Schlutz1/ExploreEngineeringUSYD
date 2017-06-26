@@ -21,6 +21,3 @@ C:\Program Files (x86)\Arduino\libraries
 
 This library source may be found here:
 https://github.com/JonHub/Filters
-
-Copyright 2014 Jonathan Driscoll
-
