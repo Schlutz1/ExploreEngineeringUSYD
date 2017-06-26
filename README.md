@@ -11,5 +11,5 @@ This file gives the relavent physiological and engineering background for the me
 ###### Sample_Datasets.xlsx
 This spreadsheet logs raw results from trials with the medical device sensor. This should be used to validate results and test software.
 
-##### PulseOximeter
+###### PulseOximeter
 This directory contains the PulseOximeter.ino skeleton file that will be implemented for the medical device.
