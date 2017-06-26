@@ -16,7 +16,11 @@ This directory contains the PulseOximeter.ino skeleton file that will be impleme
 
 ###### Filters
 This directory contains open source software that should be installed at the following location:
+
 C:\Program Files (x86)\Arduino\libraries
+
 This library source may be found here:
 https://github.com/JonHub/Filters
+
+Copyright 2014 Jonathan Driscoll
 
